@@ -1,0 +1,66 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Josefin Sans', sans-serif;
+    box-sizing: border-box;
+}
+.service {
+    background: #afa6a6;
+    width: 100%;
+    padding: 100px 0px;
+}
+
+.title h2 {
+    color: #000000;
+    font-size: 75px;
+    width: 1130px;
+    margin: 30px auto;
+    text-align: center;
+}
+.box0 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px;
+}
+
+.card0 {
+    height: 365px;
+    width: 335px;
+    padding: 20px 35px;
+    background: #424545;
+    border-radius: 20px;
+    margin: 15px;
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+}
+
+.box1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px;
+    background: #afa6a6;
+}
+
+.card1 {
+    height: 365px;
+    width: 335px;
+    padding: 20px 35px;
+    background: #424545;
+    border-radius: 20px;
+    margin: 15px;
+    position: relative;
+    overflow: hidden;
+    /*zeyd mta text f bloc disapear*/
+    text-align: center;
+}
+
+.pra a {
+    font-size: 20px;
+    color: #000000;
+    padding: 2px 4px;
+}
+
+

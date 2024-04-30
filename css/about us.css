@@ -1,0 +1,56 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Josefin Sans', sans-serif;
+    box-sizing: border-box;
+}
+.about {
+    width: 100%;
+    padding: 0px 0px;
+    background-image: linear-gradient(to left, #afa6a6, #b4afb2);
+}
+
+.about img {
+    height: auto;
+    width: 450px;
+}
+
+.about-text {
+    width: 550px;
+
+}
+
+.main {
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.about-text h2 {
+    color: rgb(118, 101, 101);
+    font-size: 75px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+
+.about-text h5 {
+    color: rgb(0, 0, 0);
+    letter-spacing: 2px;
+    font-size: 27px;
+    margin-bottom: 25px;
+    text-transform: capitalize;
+}
+
+.about-text p {
+    color: #2f2f32;
+    letter-spacing: 1px;
+    line-height: 28px;
+    /*bo3ed bin les ligne*/
+    font-size: 22px;
+    margin-bottom: 45px;
+}
+
+
